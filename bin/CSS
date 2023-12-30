@@ -1,0 +1,21 @@
+
+.pane {
+	-fx-border-style: solid;
+	-fx-border-width: 2px;
+}
+
+.selectedPaneRed {
+	-fx-border-style: solid;
+	-fx-border-width: 2px;
+	-fx-border-color: red;
+}
+
+.selectedPaneBlue {
+	-fx-border-style: solid;
+	-fx-border-width: 2px;
+	-fx-border-color: blue;
+}
+
+.winnerLabel {
+	-fx-font-size: 18pt;
+}
